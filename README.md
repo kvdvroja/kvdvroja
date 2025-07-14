@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 I thrive on tackling technological challenges with creative and efficient solutions. I am a responsible, results-oriented professional with a strong passion for web development and programming.<br/
-🌟 I push myself every day to improve, grow professionally, and deliver real value in every project.<br/
-🤝 I value teamwork and collaboration as essential pillars to achieving ambitious goals and making a positive impact.<br/
+🚀 I thrive on tackling technological challenges with creative and efficient solutions. I am a responsible, results-oriented professional with a strong passion for web development and programming.<br/>
+🌟 I push myself every day to improve, grow professionally, and deliver real value in every project.<br/>
+🤝 I value teamwork and collaboration as essential pillars to achieving ambitious goals and making a positive impact.<br/>
 
 ##
 ![](https://nirzak-streak-stats.vercel.app/?user=kvdvroja&theme=dark&hide_border=false&mode=weekly)<br/>
